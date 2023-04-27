@@ -14,8 +14,6 @@ Kernel manages the process, and each process is represented by a process descrip
 
 - The memory management registers to keep track of RAM accessed 
 
-
-
 ### Semaphores
 
 Semaphores is simply just a counter to count up and down based on number of accessed threaded
@@ -26,11 +24,7 @@ Semaphores is simply just a counter to count up and down based on number of acce
 
 - down() and up()
 
-
-
 For example, we could set counter to 1. If every a thread enters CR (crtitical region), down() to 0. All other threads check the counter and wait in the list.
-
-
 
 ### Spin Locks
 
