@@ -1,6 +1,7 @@
 ## Chapter 1
 
 ![](/Users/zhourui/Desktop/Screen%20Shot%202023-04-25%20at%2010.41.45%20PM.png)
+<<<<<<< HEAD
 
 Kernel manages the process, and each process is represented by a process descriptor, which saves following info
 
@@ -33,3 +34,5 @@ In order to resolve the efficiency issue from Semaphores (use time short).
 - No process list
 
 - 
+=======
+>>>>>>> b246027bbce7c53e8937b55099dc110bc8f7c41b
